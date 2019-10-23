@@ -194,5 +194,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+## Dataset files 
+**/0.Data
+
 # End of https://www.gitignore.io/api/linux,macos,pycharm,windows,microsoftoffice,jupyternotebooks
 
