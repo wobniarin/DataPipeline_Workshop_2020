@@ -1,2 +1,2 @@
-# SENSE_Workshop_2019
-2019 SENSE Workshop Learning Material 
+# Data Pipeline Workshop 2020
+2020 Workshop Learning Material 
